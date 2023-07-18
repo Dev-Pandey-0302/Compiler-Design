@@ -82,6 +82,5 @@ int main() {
     } else {
         cout<<"Input string is invalid!"<<endl;
     }
-    cout<<"21BDS0019 DEV PANDEY"<<endl;
     return 0;
 }
