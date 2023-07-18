@@ -68,7 +68,6 @@ int main() {
         cerr << "Failed to open file" << endl;
         return 1;
     }
-
     string input((istreambuf_iterator<char>(inputFile)), (istreambuf_iterator<char>()));
     cout<<"Input from file-> "<<endl;
     cout<<input<<endl;
